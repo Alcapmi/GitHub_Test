@@ -4,5 +4,17 @@ Git es un sistema para controlar versiones y armar un repositorio con
 estas mismas. de este modo podemos subdividir el proyecto y colaborar de 
 manera mas eficiente. 
 
-Hasta luego,
+lo primero que hacemos para crear un repositorio es arrancar el sistema 
+de versiones en una carpeta seleccionada. esto con el comando
 
+ git init (inicializar git)
+
+esto creara carpetas de sistema para ejecutar tu controlador de versiones
+
+ahora lo que tenemos que entender es que Git tiene 3 estados y un posible
+4to estado para controlar las versiones de tus archivos
+
+1. Directorio Local   2.Staggingg /preparacion  3.Repositorio Local
+
+Hasta luego,
+Alejandro Caputo
