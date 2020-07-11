@@ -1,0 +1,8 @@
+Hola a todos,
+
+Git es un sistema para controlar versiones y armar un repositorio con 
+estas mismas. de este modo podemos subdividir el proyecto y colaborar de 
+manera mas eficiente. 
+
+Hasta luego,
+
