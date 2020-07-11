@@ -10,6 +10,7 @@ body{
 }
 
 .blogpost{
+    padding-top: 10px;
     color: black;
     display: flex;
     flex-direction: column;
@@ -24,7 +25,7 @@ body{
 }
 
 .title_Blogpost{
-padding: 10px 0px 0px;
+padding: 18px 0px 10px;
 margin: 0px;
 text-align: center;
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
@@ -34,5 +35,12 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
     width: 400px;
     margin: 10px 20px 20px;
     font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 
+.info{
+    padding: 0px 20px;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
 }
