@@ -1,0 +1,103 @@
+.title {
+color: blue;
+text-align: center;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blogpost{
+    padding-top: 10px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.box{
+    
+    border-radius: 10px;
+    background-color: rgb(204, 246, 246);
+}
+
+.title_Blogpost{
+padding: 18px 0px 10px;
+margin: 0px;
+text-align: center;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.content_Blogpost{
+    width: 400px;
+    margin: 10px 20px 20px;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.info{
+    padding: 0px 20px;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+.header{
+    margin: 0px 0px 10px 0px;
+    
+    background-color: rgb(240, 240, 240);    
+    box-shadow: 0px 13px 53px -7px rgba(0,0,0,0.46);
+}
+
+.header_content{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    color: black;
+    font-size:  30px;
+}
+
+.header strong{
+    color: rgb(73, 72, 72)
+}
+
+.logo{
+    width: 70px;
+    padding: 10px;
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+    margin-top: 20px;
+    text-align: right;
+}
+
+.footer_infolist{
+    color: white;
+    list-style: none;
+    padding-right: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.footer_infolist li{
+    padding-top: 5px;
+}
+
+.footer_infolist a{
+    text-decoration: none;
+    color: white;
+}
+.footer_infolist a:hover{
+    color: grey;
+}
+
