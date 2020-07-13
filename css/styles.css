@@ -59,6 +59,7 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
     padding-left: 20px;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     justify-content: space-between;
 }
 
@@ -82,6 +83,8 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 .line:hover {
     color: rgb(46, 199, 199);
+=======
+>>>>>>> c65caacd71232e511b89a4c086b3ac80c1032ada
 }
 
 .title{
